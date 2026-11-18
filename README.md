@@ -1,9 +1,10 @@
-### Hi, I'm José 👋
+### Hey there — I'm José
 
-Software developer focused on native mobile apps and the tooling that supports them.
+Software developer crafting native mobile experiences.
 
-- 📱 iOS (Swift/SwiftUI) and Android (Kotlin/Compose)
-- 🧩 Kotlin Multiplatform for shared logic
-- 🛠️ Automation, testing and developer tooling
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 
-Most of my work is private for now.
+<sub>Most of my work lives in private repos — for now.</sub>
