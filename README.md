@@ -1,9 +1,9 @@
 ### Hi, I'm José 👋
 
-Software developer focused on native mobile apps and the tooling that supports them.
+I make apps for the phone in your pocket.
 
-- 📱 iOS (Swift/SwiftUI) and Android (Kotlin/Compose)
-- 🧩 Kotlin Multiplatform for shared logic
-- 🛠️ Automation, testing and developer tooling
+- 📱 iOS and Android, always native
+- ☕ Usually tinkering with tools that make building easier
+- 🌱 Learning something new every week
 
-Most of my work is private for now.
+Thanks for stopping by!
